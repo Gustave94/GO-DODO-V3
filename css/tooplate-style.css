@@ -490,7 +490,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
     justify-content: center;
     padding: 1em;
     color: #fff;
-    text-transform: uppercase;
+    text-transform: none;
     font-size: 1.25em;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
