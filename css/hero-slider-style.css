@@ -702,5 +702,5 @@ Javascript disabled
 
 table {
         border-collapse: separate;
-        border-spacing: 100px 15px; /* Nombre de pixels d'espace horizontal (5px), vertical (8px) */
+        border-spacing: 200px 15px; /* Nombre de pixels d'espace horizontal (5px), vertical (8px) */
 }
