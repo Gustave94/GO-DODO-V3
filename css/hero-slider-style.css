@@ -698,7 +698,7 @@ Javascript disabled
 }
 
 
-.imagecenter {text-align:center}
+.imagecenter {text-align:left}
 
 table {
         border-collapse: separate;
@@ -709,3 +709,5 @@ table {
 .flotte {
   float:left;
 }       
+
+
