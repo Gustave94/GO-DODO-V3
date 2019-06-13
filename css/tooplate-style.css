@@ -176,7 +176,7 @@ button:focus { outline: none; }
 	background-color: #447fca;		
 }
 
-.tm-bg-white-translucent { background-color: rgba(255,255,255,0.8); }
+.tm-bg-white-translucent { background-color: rgb(205,231,244); }
 .tm-bg-white-translucent p { color: black; }
 .tm-textbox { 
 	display: inline-block; 
