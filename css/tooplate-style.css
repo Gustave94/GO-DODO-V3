@@ -136,8 +136,8 @@ button:focus { outline: none; }
 }
 
 /* Background & menu colors */
-.cd-hero-slider li:nth-of-type(1) { background-color: rgba(56, 182, 230, 0.62); }
-.cd-hero-slider li:nth-of-type(2) { background-color: rgba(56, 182, 230, 0.62); }
+.cd-hero-slider li:nth-of-type(1) { background-color: #38b6e6; }
+.cd-hero-slider li:nth-of-type(2) { background-color: #38b6e6; }
 .cd-hero-slider li:nth-of-type(3) { background-color: rgba(234, 163, 25, 0.62); }
 .cd-hero-slider li:nth-of-type(4) { background-color: rgba(22, 181, 163, 0.62); }
 .cd-hero-slider li:nth-of-type(5) { background-color: rgba(68, 127, 202, 0.62); }
