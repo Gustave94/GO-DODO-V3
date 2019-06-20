@@ -708,5 +708,7 @@ table {
 .flotte {
   float:left;
 }       
-
-
+    
+.alignLeft {
+  float:left;
+  }
